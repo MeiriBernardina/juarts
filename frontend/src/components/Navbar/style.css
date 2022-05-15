@@ -1,0 +1,37 @@
+
+:root {
+    --color-primary: #4D41C0;
+  }
+
+
+
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.juarts-nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.juarts-nav-content h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.juarts-contact-container {
+    display: flex;
+    align-items: center;
+}
+
+.juarts-contact-link {
+    margin: 0 0 0 10px;
+    font-size: 12px;
+    text-decoration: none;
+}
