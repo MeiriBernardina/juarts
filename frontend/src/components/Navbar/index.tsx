@@ -7,7 +7,7 @@ function Navbar(){
         <header>
         <nav className="container">
             <div className="juarts-nav-content">
-                <h1>DSMovie</h1>
+                <h1>Juliana Santos Arts</h1>
                 <a href="https://www.instagram.com/julianasantos_art/" target="_blank" rel="noreferrer">
                     <div className="juarts-contact-container">
                         <InstagramIcon />
