@@ -16,6 +16,7 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Neblina', 'https
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Lunarx', 'https://i.pinimg.com/originals/09/8b/67/098b67241fadbcf39ec83e1cfb884538.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Lunary', 'https://i.pinimg.com/originals/88/e3/36/88e336a70db47991bfd737fbd423d072.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Papoulas', 'https://i.pinimg.com/originals/7b/8e/95/7b8e9566a4c1514b09cd4b192837f7ed.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'teste', 'https://i.pinimg.com/originals/7b/8e/95/7b8e9566a4c1514b09cd4b192837f7ed.jpg');
 
 
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 1, 5.0);
