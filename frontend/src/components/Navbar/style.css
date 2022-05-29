@@ -28,10 +28,11 @@ header {
 .juarts-contact-container {
     display: flex;
     align-items: center;
+   
 }
 
 .juarts-contact-link {
     margin: 0 0 0 10px;
-    font-size: 12px;
+    font-size: 14px;
     text-decoration: none;
 }

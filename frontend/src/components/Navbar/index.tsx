@@ -1,4 +1,4 @@
-import {ReactComponent as InstagramIcon} from 'assets/img/Vector.svg'
+import {ReactComponent as InstagramIcon} from 'assets/img/instagram.svg'
 import './style.css';
 
 
